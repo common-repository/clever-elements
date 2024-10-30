@@ -1,0 +1,9 @@
+.cl_wp_pl_error {
+    color: #ff0000;
+}
+.cl_wp_pl_wrapper .widefat label {
+	line-height: normal;
+}
+.cl_wp_pl_wrapper span.status {
+	padding: 0.1em 0.4em;
+}

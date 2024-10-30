@@ -1,0 +1,28 @@
+.cl_wp_pl_subscribe_checkbox_row label {
+    float: left;
+    margin: 0 4px;
+    display: block !important;
+}
+
+.cl_wp_pl_subscribe_checkbox_row input {
+    float: left;
+    margin: 5px 4px;
+}
+
+.wp_cl_pl_form_row {
+    margin-top: 5px;
+}
+
+.cl_form_message {
+    color: #006505;
+    display: none;
+}
+
+.cl_form_error_message {
+    color: #FF0000;
+    display: none;
+}
+
+.cl_el_widget_from_ajax input, textarea, select {
+    width: 100%;
+}
